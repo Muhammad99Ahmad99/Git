@@ -1,2 +1,2 @@
-verebvradakndkskdnaThis is project version 1.0
+averebvradakndkskdnaThis is project version 1.0
 I want this to go into commit
